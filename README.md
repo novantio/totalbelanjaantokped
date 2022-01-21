@@ -5,6 +5,8 @@ langkah pertama buka
 https://www.tokopedia.com/order-list
 ```
 
+goto inspect element `ctrl+shift+i`
+
 kedua buat var total =0
 ```
 total_all=0;
