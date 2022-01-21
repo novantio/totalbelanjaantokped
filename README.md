@@ -33,7 +33,7 @@ urutan pengerjaan
 > next page
 > loop until you finish
 
-full script
+full script posisi loop.. copas until you tired
 ```
 totalperpage=[...document.querySelectorAll(".sum-price>div>p:nth-child(2)")].map(e=> parseInt(e.innerText.replace("Rp","").replace(".","").replace(".","").replace(".","").trim())).reduce((a,b)=>a=a+b,0); 
 total_all=total_all+totalperpage; 
